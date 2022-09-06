@@ -1,0 +1,13 @@
+section .ant-page-header {
+    font-size: 22px;
+    cursor: pointer;
+}
+
+section .ant-space ant-space-horizontal ant-space-align-center {
+    gap: 12px;
+}
+
+.site-page-header {
+    position: sticky;
+    top: 0;
+}

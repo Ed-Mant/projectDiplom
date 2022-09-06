@@ -1,0 +1,44 @@
+section .ant-layout {
+    background: white;
+}
+
+.site-card-wrapper {
+    background: white;
+}
+
+section .ant-cart {
+    border-radius: 200px;
+}
+
+section .ant-page-header-ghost {
+    background-color: #f0f2f5;
+  }
+
+section .ant-menu-sub.ant-menu-inline {
+    background: #f0f2f5;
+}
+
+/* .ant-page-header {
+    background-color: #f0f2f5;
+    background: #f0f2f5;
+} */
+
+section .ant-card-head-title {
+    text-align: start;
+    font-weight: 500;
+    font-size: 20px;
+}
+
+section .btn-card {
+    float: right;
+}
+
+.site-card-wrapper {
+    padding: 0px 160px 0px 160px;
+  }
+
+.h-main {
+    padding: 18px 0px 14px 0px;
+    font-weight: 600;
+    text-align: center;
+}
